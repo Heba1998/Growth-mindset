@@ -22,6 +22,9 @@ a void challenges |Embraces challenges
 Ignore criticism |Learn from criticism
 
 
+
+
+
 ### Ways to Develop a Growth Mindset
 
 * Acknowledge and embrace imperfection in self and others, as it is the spice that makes us individuals.
