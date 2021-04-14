@@ -37,7 +37,7 @@ This is where we can change how the page behaves, adding interact ivity. We will
 
 4. Open the HTML file in your browser. You should see that the JavaScript has added a greeting (in this case, Good Afternoon!) to the page. (These greetings are coming from the JavaScript file; they are not in the HTML file.) Please note: Internet Explorer sometimes prevents JavaScript running when you open a page stored on your hard drive. If this affects you, please try Chrome, Firefox, Opera, or Safari instead.
 
-5. f) Once you have tried the example in your browser, view the source code for the page. (This option is usually under the View, Tools or Develop menu of the browser.)
+5. Once you have tried the example in your browser, view the source code for the page. (This option is usually under the View, Tools or Develop menu of the browser.)
 
 6. The source of the web page does not actually show the new element that has been added into the page; it just shows the link to the JavaScript file. As you move through the book, you will see most of the scripts are added just before the closing </body> tag 
 
