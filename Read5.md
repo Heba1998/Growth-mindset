@@ -17,7 +17,7 @@
       * *Not equal is an comparison operator which is used to check the value of two operands are equal or not.*
      *If the value of two operands are not equal it returns true.*
 
-    * **<** *	less than*
+   *  **<** *	less than*
       * *Checks whether left operand is less than right operand. If yes then returns true otherwise false.*
 
    * **>**	*greater than *    
