@@ -2,7 +2,7 @@
 
 ![image](https://cdn.neow.in/news/images/uploaded/2018/12/1544525547_javascript_jquery_story.jpg)
 
-* ### **Comparision operator **
+* ### Comparision operator
 ![image](https://www.javascripttutorial.net/wp-content/uploads/2016/11/JavaScript-Comparison-Operators.png)
 
    * **=** *equal to*
@@ -31,13 +31,13 @@
 
 
 
- * ### **Logical operation**
+ * ### Logical operation
  ![img](https://i.ytimg.com/vi/JVL6xEzOCrE/maxresdefault.jpg)
 
    * **&&** *And*
       * *&& is known as AND operator. It checks whether two operands are non-zero (0, false, undefined, null or "" are considered as zero), if yes then returns 1 otherwise 0.*
 
-   * **||**	*Or *    
+   * **|** **|**	*Or *    
       * *| is known as OR operator. It checks whether any one of the two operands is non-zero (0, false, undefined, null or "" is considered as zero)..*
 
    * **!**	*Not*
@@ -45,7 +45,7 @@
   
 
 
- * ### **Loops**
+ * ### Loops
 
 ![image](https://www.r-craft.org/wp-content/uploads/2018/09/how-to-avoid-for-loop-in-r.png)
 
