@@ -37,7 +37,7 @@
    * **&&** *And*
       * *&& is known as AND operator. It checks whether two operands are non-zero (0, false, undefined, null or "" are considered as zero), if yes then returns 1 otherwise 0.*
 
-   * **|** **|**	*Or *    
+   * **OR**    
       * *| is known as OR operator. It checks whether any one of the two operands is non-zero (0, false, undefined, null or "" is considered as zero)..*
 
    * **!**	*Not*
