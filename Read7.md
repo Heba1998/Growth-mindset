@@ -34,12 +34,12 @@ CSS3 introduces the opacity property which allows you to specify the opacity of 
 * ### HSL Colors
    * hue
    * saturation
-   * ligh tness
+   * lightness
 
 
 
 ## Summary:
-1. Color not only brings your s XX ite to life, but also helps
+1. Color not only brings your site to life, but also helps
 convey the mood and evokes reactions.
 2. There are three ways to specify colors in CSS:
 RGB values, hex codes, and color names.
