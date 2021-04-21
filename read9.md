@@ -1,6 +1,6 @@
 # Choosing A Text Editor
 
-![img](https://miro.medium.com/max/1140/1*21oUCQRxP7aL2U1zO_XSvg.jpeg)
+![img](https://i.ytimg.com/vi/OJwzcVNWfns/maxresdefault.jpg)
 
 *choosing a text editor ends up being a very personal choice.*
 *I don’t think that it truly matters as to which text editor you use. Yes,some text editing software comes with features that other text editing software does not. But for the most part, they’re all pretty similar.*
@@ -8,6 +8,8 @@
 
 ### **What is a text editor?**
 *A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site. The text editor has to be one of the most important tools you can use as an aspiring web developer.*
+
+![img](https://miro.medium.com/max/800/0*MyAfggJM7yH40Sdx.)
 
 **What features should you look for in a text editor? I would say some of the most important features are:**
 
@@ -58,4 +60,11 @@ and installed to your computer from their respective websites. Each of these tit
 **Sublime Text**  
    * . Sublime Text enjoys a history of being fast and responsive while being extensible as well. There’s no doubt that Sublime Text will tick the check boxes of what to look for in a text editor.
 
+**The Difference Between Text Editors and IDEs**
 
+
+![img](https://assets.goodfirms.co/images/Text-Editor-vs-IDE.jpg)
+
+
+
+[home page](https://heba1998.github.io/reading-notes/)
